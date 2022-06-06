@@ -31,6 +31,8 @@ There are multiple options for following along:
 ### Cloning the Repository
 The first option is to clone the repository to a local folder and run using your own version of Python & Jupyter. If you do this, please make sure you install the required packages listed in `requirements.txt`. See here: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository for details on how to clone a repository and here https://note.nkmk.me/en/python-pip-install-requirements/ for details on how to install the required packages
 
+Once you have cloned the repository you can open it up in Jupyter Notebooks, Jupyter-Lab or VSCode.
+
 ### Using Binder or Google Colab
 If you are restricted from installing Python on your computer or are unable to load the required libraries, you can use the binder link [https://mybinder.org/v2/gh/SPWLA-ORG/spwla2021_ml_workshop/HEAD](https://mybinder.org/v2/gh/andymcdgeo/spwla_2022_machine_learning_workshop/HEAD). This will load up the repository allowing you to work through the course notebooks and interact with the code.
 
