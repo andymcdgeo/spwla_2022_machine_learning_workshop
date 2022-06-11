@@ -1,4 +1,4 @@
-# SPWLA Workshop on Machine Learning and Artificial Intelligence (12th - 13th May 2021)
+# SPWLA Workshop on Machine Learning and Artificial Intelligence (11th June 2022)
 
 Click on the buttons below to access this repo trhough Binder or Google Colab:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andymcdgeo/spwla_2022_machine_learning_workshop/HEAD)
