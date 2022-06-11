@@ -5,7 +5,7 @@ Click on the buttons below to access this repo trhough Binder or Google Colab:
 
 **Instructors:** Lalitha Venkataramanan (SLB), [Andy McDonald (LR)](https://github.com/andymcdgeo) & Vikas Jain (SLB)
 
-- [SPWLA Workshop on Machine Learning and Artificial Intelligence (12th - 13th May 2021)](#spwla-workshop-on-machine-learning-and-artificial-intelligence-12th---13th-may-2021)
+- [SPWLA Workshop on Machine Learning and Artificial Intelligence (11th June 2022)](#spwla-workshop-on-machine-learning-and-artificial-intelligence-11th-june-2022)
   - [About the Course](#about-the-course)
   - [Using the Notebooks](#using-the-notebooks)
     - [Cloning the Repository](#cloning-the-repository)
@@ -34,14 +34,16 @@ The first option is to clone the repository to a local folder and run using your
 Once you have cloned the repository you can open it up in Jupyter Notebooks, Jupyter-Lab or VSCode.
 
 ### Using Binder or Google Colab
-If you are restricted from installing Python on your computer or are unable to load the required libraries, you can use the binder link [https://mybinder.org/v2/gh/SPWLA-ORG/spwla2021_ml_workshop/HEAD](https://mybinder.org/v2/gh/andymcdgeo/spwla_2022_machine_learning_workshop/HEAD). This will load up the repository allowing you to work through the course notebooks and interact with the code.
+If you are restricted from installing Python on your computer or are unable to load the required libraries, you can use the binder link [https://mybinder.org/v2/gh/andymcdgeo/spwla_2022_machine_learning_workshop/HEAD](https://mybinder.org/v2/gh/andymcdgeo/spwla_2022_machine_learning_workshop/HEAD). This will load up the repository allowing you to work through the course notebooks and interact with the code.
 
 Alternatively, you can use Google Colab: https://colab.research.google.com/. once on the Google Colab page you will be asked to select the data source. On the yellow menu at the top select GitHub, and then copy and paste the URL of this repository into the textbox that says: "Enter a GitHub URL or search by organization or user"
 
  Further details on using Google Colab with GitHub can be found here: https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d
 
 ### Downloading Files from Google Drive
-To be determined....
+Presentations and code can be downloaded from:
+
+https://drive.google.com/drive/folders/120jGpHmXmA57YKiRPr0E6r_00zx9Ue8M?usp=sharing
 
 
 ## About the Instructors
